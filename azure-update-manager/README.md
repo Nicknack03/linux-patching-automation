@@ -52,7 +52,7 @@ Clone the repository
 ```bash
 git clone https://github.com/yourusername/linux-patching-automation.git
 
-cd azure-linux-guest-patching
+cd azure-update-patching
 ```
 
 Create a virtual environment

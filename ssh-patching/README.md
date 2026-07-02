@@ -45,7 +45,7 @@ Clone the repository
 ```bash
 git clone https://github.com/yourusername/linux-patching-automation.git
 
-cd linux-ssh-patching
+cd ssh-patching
 ```
 
 Create a virtual environment
