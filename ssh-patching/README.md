@@ -43,7 +43,7 @@ The script automatically detects the Linux distribution, performs patch assessme
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/linux-ssh-patching.git
+git clone https://github.com/yourusername/linux-patching-automation.git
 
 cd linux-ssh-patching
 ```

@@ -50,7 +50,7 @@ A Python automation tool to patch multiple Azure Linux Virtual Machines using **
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/azure-linux-patching.git
+git clone https://github.com/yourusername/linux-patching-automation.git
 
 cd azure-linux-patching
 ```
